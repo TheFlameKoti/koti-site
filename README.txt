@@ -1,1 +1,0 @@
-Upload contents to a GitHub repository. Enable GitHub Pages. Visit your site URL to launch Koti into freedom.
